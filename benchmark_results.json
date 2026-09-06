@@ -1,0 +1,56 @@
+[
+  {
+    "dataset": "iris",
+    "algorithm": "SVC",
+    "cv_mean": 0.96,
+    "cv_std": 0.0389,
+    "min": 0.9,
+    "max": 1.0,
+    "elapsed_s": 0.013
+  },
+  {
+    "dataset": "iris",
+    "algorithm": "Decision Tree",
+    "cv_mean": 0.9533,
+    "cv_std": 0.034,
+    "min": 0.9,
+    "max": 1.0,
+    "elapsed_s": 0.007
+  },
+  {
+    "dataset": "iris",
+    "algorithm": "Random Forest",
+    "cv_mean": 0.9467,
+    "cv_std": 0.0267,
+    "min": 0.9,
+    "max": 0.9667,
+    "elapsed_s": 0.399
+  },
+  {
+    "dataset": "wine",
+    "algorithm": "SVC",
+    "cv_mean": 0.9833,
+    "cv_std": 0.0222,
+    "min": 0.9444,
+    "max": 1.0,
+    "elapsed_s": 0.012
+  },
+  {
+    "dataset": "wine",
+    "algorithm": "Decision Tree",
+    "cv_mean": 0.8821,
+    "cv_std": 0.0377,
+    "min": 0.8286,
+    "max": 0.9429,
+    "elapsed_s": 0.009
+  },
+  {
+    "dataset": "wine",
+    "algorithm": "Random Forest",
+    "cv_mean": 0.9775,
+    "cv_std": 0.0213,
+    "min": 0.9429,
+    "max": 1.0,
+    "elapsed_s": 0.421
+  }
+]
